@@ -8,3 +8,5 @@ dependencies:
   - metpy
   - geoviews
   - nodejs
+  - jupyter=1.0.0
+  - jupyterlab=1.0.2
